@@ -1,6 +1,6 @@
 # Hey, I’m LegacyNay 👋  
 
-![Gamora](https://kids.kiddle.co/Image:Gamora-cover.jpg)
+![Gamora](https://i.pinimg.com/736x/e1/aa/33/e1aa33b6b995b6829c5ec111c337da78.jpg)
 
 ## About Me  
 I build open-source tools in **AI**, **Tokenization**, and **Bitcoin** — focusing on automation, analysis, and lightweight CLI utilities.  
