@@ -1,0 +1,10 @@
+{
+  "name": "legacynay",
+  "version": "1.0.0",
+  "description": "Open-source profile repo for LegacyNay showcasing AI, Tokenization, and Bitcoin CLI projects including agent-sandbox, token-analyzer, and btc-node-monitor. Serves as the central hub for tools, experiments, and open-source work.",
+  "main": "bin/autoinit.js",
+  "bin": { "autoinit": "./bin/autoinit.js" },
+  "scripts": { "start": "node bin/autoinit.js" },
+  "dependencies": { "axios": "^1.6.2", "inquirer": "^9.2.0" },
+  "license": "MIT"
+}
